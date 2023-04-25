@@ -1,4 +1,7 @@
 #!/usr/bin/python3
+# Lamin Touray
+
+# Uptime Sensor part 2
 
 import subprocess
 import time
