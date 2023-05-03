@@ -11,7 +11,7 @@
 # If no flag is received, notify the user the port is filtered and silently dropped.
 
 
-from scapy.all import sr1, IP, TCP
+from scapy.all import *
 import sys
 
 # Define host IP and port range
