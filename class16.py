@@ -49,4 +49,8 @@ else:
     # If the user enters an invalid mode selection, print an error message to the console
     print("Invalid mode selected.")
 
+<<<<<<< HEAD
 # Source: chaGPT
+=======
+# Source: chaGPT
+>>>>>>> ddf2fd499595a087eb405bf5e761d9e981679c44
